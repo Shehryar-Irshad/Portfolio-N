@@ -1,0 +1,270 @@
+
+.home{
+    max-width: 800px;
+}
+.wholeNav{
+    position: fixed;
+    top: 0; /* To stick it at the top of the viewport */
+    left: 0;
+}
+.brand{
+    position: relative;
+    left: 50px;
+    top: 7px;
+    color: black;
+    font-style: oblique;
+    font-size:larger;
+}
+.cont1{
+    position: relative;
+    top: 250px;
+    left: 200px;
+}
+.item{
+    position:relative;
+    left: 500px;
+    top: 4px;
+    color: black;
+    font-size: large;
+    font-style:initial;
+    
+}
+.Img1{
+    position: absolute;
+    top: 10px;
+    left: 700px;
+}
+.int{
+    opacity: 0.7;
+    color: grey;
+}
+.int2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Abt-main{
+    background-color: #332421;   
+    position: relative;
+    top: 500px;
+    margin-right: -540px;
+}
+.Abt{
+    width: 1150px;
+    color: white; 
+    padding-left: 650px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.Abt-img{
+    position: absolute;
+    top: 130px;
+    left: 200px;
+    background-color: #dfaf74;
+    border-radius: 50%;
+}
+.Skl{
+    position: relative;
+    top: 650px;
+    left: 350px;
+    width: 800px;
+}
+.shapes{
+    position: absolute;
+    background: #dfaf74;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    top: -5px;
+    left: -320px;
+}
+.shapes3{
+    position: absolute;
+    width: 80px; 
+    height: 150px; 
+    border-radius: 0 100px 100px 0;
+    left: -350px;
+    top: 80px;
+    background: transparent;
+    border: 2px solid;
+}
+.Ftr{
+    position: relative;
+    background-color: #332421;
+    top: 400px;
+    margin-right: -540px;
+    color: white;
+}
+.items{
+    position: relative;
+    display: inline;
+    left: 40px;   
+    bottom: 50px;
+}
+.shapes5{
+      position: relative;
+      top: -290px;
+      left: 800px;
+      width: 180px;
+      height: 280px;
+      background-color: #dfaf74;
+      border-top-left-radius: 250px;
+      border-bottom-left-radius: 250px;
+      z-index: 1;
+}
+.shapes6{
+    position: relative;
+    background: transparent;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    top: -620px;
+    left: 710px;
+    border: 2px solid ;
+
+}
+progress {
+    width: 600px;
+    height : 20px;
+    border: 2px solid gray;
+ }
+ progress::-webkit-progress-bar {
+    background-color:#d3bea5;
+ }
+ progress::-webkit-progress-value {
+    background-color:#95734a;
+ }
+.Proj-main{
+    margin-top: 50px;
+    padding-top: 50px;
+    background-color: #332421;   
+    position: relative;
+    top: 200px;
+    margin-right: -540px;
+    height: 800px;
+}
+.key1{
+    position: relative;
+    top:20px;
+    left: 250px;
+    background-color: #dfaf74;
+}
+.text1{
+    font-size: small;
+}
+.key2{
+    position: relative;
+    top: -270px;
+    left: 845px;
+}
+.key3{
+    position: relative;
+    top: -220px;
+    left: 530px;
+}
+.shape1-proj{
+    position: relative;
+    background: #dfaf74;
+    border-radius: 0 100px 100px 0;
+    width: 100px;
+    height: 100px;
+    top: -840px;   
+    left: 120px;
+}
+.shape2-proj{
+    position: relative;
+    background: #dfaf74;
+    border-radius: 0 100px 100px 0;
+    width: 100px;
+    height: 100px;
+    top: -940px;
+    left: 720px;
+}
+.shape3-proj{
+    position: relative;
+    background: #dfaf74;
+    border-radius: 0 100px 100px 0;
+    width: 100px;
+    height: 100px;
+    top: -700px;
+    left: 400px;
+}
+.num-shape{
+    position: relative;
+    left: 45px;
+    top: 25px;
+}
+.Exp-main{
+    position: relative;
+    top: 200px;
+    margin-right: -540px;
+    height: 800px;
+}
+.main-title{
+    position: relative;
+    text-align: center;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+.subtitle{
+    position: relative;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.exp-card1{
+    position: relative;
+    top:20px;
+    left: 250px;   
+}
+.exp-card1:hover{
+    background-color: #332421;
+    color: white;
+}
+.exp-shp1{
+    position: relative;
+    background: #dfaf74;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;   
+    top: -90px;
+    left: 560px;
+}
+.num-shp1{
+    position: relative;
+    left: 25px;
+    top: 13px;
+}
+.Exp-info{
+    position: relative;
+    padding-left: 650px;
+    top: -150px;
+}
+.exp-card2{
+    position: relative;
+    top:-100px;
+    left: 650px;      
+}
+.exp-card2:hover{
+    background-color: #332421;
+    color: white;
+}
+.exp-shp2{
+    position: relative;
+    background: #dfaf74;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;   
+    top: -250px;
+    left: 560px;
+}
+.Exp-info2{
+    position: relative;
+    padding-left: 250px;
+    top: -305px;   
+}
+.First-card{
+    padding-top: 50px;
+}
+.Sec-card{
+    padding-top: 100px;
+}
