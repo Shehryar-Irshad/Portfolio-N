@@ -434,11 +434,3 @@ button:hover{
     background: #332421;
     color: white;
 }
-@media only screen and (max-width: 600px) {
-   body{
-    background-color: blue;
-   }
-   .home{
-    max-width: 600px;
-   }
-}
