@@ -4,16 +4,17 @@ import Image from "next/image";
 const Nav = () =>{
     return(
        <div className="">
+          <div className="navig-port">
+            <nav className="navbar navbar-expand-lg fixed-top" style={{background:"rgb(219,219,219)"}}>
 
-           <nav className="navbar navbar-expand-lg fixed-top" style={{background:"rgb(219,219,219)"}}>
+                <p className="brand">SHEHRYAR IRSHAD</p>    
+                <p className="item px-3">Skills</p>
+                <p className="item px-3">Experience</p>
+                <p className="item px-3">Contact</p>
+                <p className="item px-3">+92 324 6608 391</p>
 
-               <p className="brand">SHEHRYAR IRSHAD</p>    
-               <p className="item px-3">Skills</p>
-               <p className="item px-3">Experience</p>
-               <p className="item px-3">Contact</p>
-               <p className="item px-3">+92 324 6608 391</p>
-
-           </nav>
+            </nav>
+           </div>
            <div className="ComNav">
                 <div className="cont1">
 

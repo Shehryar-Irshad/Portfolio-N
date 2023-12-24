@@ -1,3 +1,11 @@
+@media only screen and (max-device-width: 480px) {
+      .navig-port{
+          max-width: fit-content;
+      }
+}
+
+
+
 
 .home{
     max-width: 800px;
